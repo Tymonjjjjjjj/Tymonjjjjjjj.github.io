@@ -1,0 +1,17 @@
+p{
+    color:red;
+    font-weight:bold;
+   font-size: x-large;
+   font-family: "Phetsarath", serif;
+}
+
+body{
+
+    background-color: blue;
+}
+img{
+    width: 1000px;
+    border:10px;
+    border-style: dashed;
+
+}
